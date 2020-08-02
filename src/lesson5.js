@@ -23,7 +23,7 @@ console.log(obj1 === obj2);
 
 console.log("------------");
 
-let obj3 = new SingleObject();// 加入有人不了解这块的机制，没有使用单例引用静态方法，而是通过new初始化实例obj3,login方法也可以使用，js是弱类型，并不会报错，但是obj1!== obj3
+let obj3 = new SingleObject();// 假如有人不了解这块的机制，没有使用单例引用静态方法，而是通过new初始化实例obj3,login方法也可以使用，js是弱类型，并不会报错，但是obj1!== obj3
 obj3.login()
 
 console.log(obj1 === obj3);
