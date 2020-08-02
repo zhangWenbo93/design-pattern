@@ -1,0 +1,10 @@
+{
+    "presets": [
+        "es2015",
+        "latest",
+        "env"
+    ],
+    "plugins": [
+        "transform-decorators-legacy"
+    ]
+}

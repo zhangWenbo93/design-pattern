@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "《巴黎圣母院》",
+        "price": 244,
+        "discount": 1
+    },
+    {
+        "id": 2,
+        "name": "《红与黑》",
+        "price": 213,
+        "discount": 1
+    },
+    {
+        "id": 3,
+        "name": "《仲夏夜之梦》",
+        "price": 198,
+        "discount": 0
+    },
+    {
+        "id": 4,
+        "name": "《三个火枪手》",
+        "price": 187,
+        "discount": 0
+    },
+    {
+        "id": 5,
+        "name": "《堂吉诃德》",
+        "price": 207,
+        "discount": 0
+    }
+]
